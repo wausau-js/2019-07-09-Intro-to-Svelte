@@ -7,3 +7,5 @@ Two Github repositories enter the ring.  Only one leaves alive....
 * https://github.com/jxnblk/mdx-deck
 * http://domenlightenment.com/
 * https://frontendmasters.com/books/javascript-enlightenment/
+* https://javascript30.com/
+* https://learnnode.com/
