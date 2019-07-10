@@ -9,3 +9,4 @@ Two Github repositories enter the ring.  Only one leaves alive....
 * https://frontendmasters.com/books/javascript-enlightenment/
 * https://javascript30.com/
 * https://learnnode.com/
+* https://vetswhocode.io/
