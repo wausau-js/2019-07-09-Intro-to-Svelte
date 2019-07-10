@@ -11,3 +11,6 @@ Two Github repositories enter the ring.  Only one leaves alive....
 * https://learnnode.com/
 * https://vetswhocode.io/
 * https://eloquentjavascript.net/
+* https://learn.freecodecamp.org/
+* https://www.leveluptutorials.com/
+
