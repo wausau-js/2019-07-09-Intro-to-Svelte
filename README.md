@@ -10,3 +10,4 @@ Two Github repositories enter the ring.  Only one leaves alive....
 * https://javascript30.com/
 * https://learnnode.com/
 * https://vetswhocode.io/
+* https://eloquentjavascript.net/
