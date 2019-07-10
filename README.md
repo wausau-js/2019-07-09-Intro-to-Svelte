@@ -5,3 +5,5 @@ Two Github repositories enter the ring.  Only one leaves alive....
 * https://github.com/getify/You-Dont-Know-JS
 * https://www.openstreetmap.org
 * https://github.com/jxnblk/mdx-deck
+* http://domenlightenment.com/
+* https://frontendmasters.com/books/javascript-enlightenment/
